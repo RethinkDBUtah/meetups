@@ -1,4 +1,4 @@
-![RethinkDB Utah header](https://raw.githubusercontent.com/RethinkDBUtah/meetups/master/assets/RethinkDB%20Utah%206.png)
+# RethinkDB Utah Meetups!
 
 Welcome to RethinkDB Utah's GitHub happy place!
 
