@@ -1,4 +1,4 @@
-# RethinkDB Utah Meetups!
+![RethinkDB Utah header](https://raw.githubusercontent.com/RethinkDBUtah/meetups/master/assets/RethinkDB%20Utah%206.png)
 
 Welcome to RethinkDB Utah's GitHub happy place!
 
@@ -31,3 +31,4 @@ Thanks for helping make AWESOMENESS happen!
 <br />
 <br />
 
+![Utah RethinkDB Thinker](https://raw.githubusercontent.com/RethinkDBUtah/meetups/master/assets/RethinkDB-Thinker-Utah.png)
